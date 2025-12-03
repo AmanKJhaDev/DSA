@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2b6213b-5038-4121-9b3a-2278ee42ccd6" name="Changes" comment="add subarrays file">
+    <list default="true" id="c2b6213b-5038-4121-9b3a-2278ee42ccd6" name="Changes" comment="FILE FOR MAXSUM">
+      <change afterPath="$PROJECT_DIR$/src/main/java/TRAPINGWATTER.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,22 +41,22 @@
     &quot;assignee&quot;: &quot;AmanKJhaDev&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/AmanKJhaDev/DSA.git",
-    "accountId": "8a91d55a-4178-4bb6-af97-ae14807119bd"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AmanKJhaDev/DSA.git&quot;,
+    &quot;accountId&quot;: &quot;8a91d55a-4178-4bb6-af97-ae14807119bd&quot;
   },
-  "recentNewPullRequestHead": {
-    "server": {
-      "useHttp": false,
-      "host": "github.com",
-      "port": null,
-      "suffix": null
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
     },
-    "owner": "AmanKJhaDev",
-    "repository": "DSA"
+    &quot;owner&quot;: &quot;AmanKJhaDev&quot;,
+    &quot;repository&quot;: &quot;DSA&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -68,12 +69,14 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.KnapsackTabu.executor": "Run",
+    "Application.TRAPINGWATTER.executor": "Run",
     "Application.array.executor": "Run",
     "Application.arrayupdate.executor": "Run",
     "Application.binarysearcch.executor": "Run",
     "Application.knapsacktabu.executor": "Run",
     "Application.largearr.executor": "Run",
     "Application.linear.executor": "Run",
+    "Application.maxsum.executor": "Run",
     "Application.reversearray.executor": "Run",
     "Application.subarray.executor": "Run",
     "Application.targetsum.executor": "Run",
@@ -127,7 +130,31 @@
       <option name="project" value="LOCAL" />
       <updated>1764678931641</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add subarrays file">
+      <option name="closed" value="true" />
+      <created>1764696752420</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1764696752420</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add subarray">
+      <option name="closed" value="true" />
+      <created>1764696947040</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1764696947040</updated>
+    </task>
+    <task id="LOCAL-00007" summary="FILE FOR MAXSUM">
+      <option name="closed" value="true" />
+      <created>1764764022091</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1764764022091</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,7 +172,9 @@
     <MESSAGE value="added knapsack dp code" />
     <MESSAGE value="added knapsack dp code adb add" />
     <MESSAGE value="add subarrays file" />
-    <option name="LAST_COMMIT_MESSAGE" value="add subarrays file" />
+    <MESSAGE value="add subarray" />
+    <MESSAGE value="FILE FOR MAXSUM" />
+    <option name="LAST_COMMIT_MESSAGE" value="FILE FOR MAXSUM" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
